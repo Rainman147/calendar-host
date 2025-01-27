@@ -3,11 +3,12 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:-//TaskManager//EN
 BEGIN:VEVENT
-UID:Schedule_Time_Off_for_Hakeem's_Birthday-20250125T09000(taskmanager
+UID:Schedule_Time_Off_for_Hakeem's_Birthday-20250125T120000Z
 SUMMARY:Schedule Time Off for Hakeem's Birthday
-DESCRIPTION:Use the APP to schedule time off for February 27, Hakeem's actual birthday.
+DESCRIPTION:Use the ADP to schedule time off for February 27, Hakeem's actual birthday.
 STATUS:PENDING
-DTSTART:20250125T090000Z
-TEND:20250125T093000Z
+DTSTART:20250125T120000Z
+TEND:20250125T123000Z
+UID:Schedule_Time_Off_for_Hakeem's_Birthday-20250125T120000Z
 END:VEVENT
 END:VCALENDAR
